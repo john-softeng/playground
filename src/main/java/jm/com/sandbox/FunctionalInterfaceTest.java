@@ -26,7 +26,6 @@ public class FunctionalInterfaceTest {
 		intToString = a -> String.valueOf(a);
 		System.out.println("Int to String: " + intToString.apply(11));
 		
-		
 	}
 	
 	
